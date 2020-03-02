@@ -12,7 +12,7 @@
 			  <li>Coffee</li>
 			  <li>Tea</li>
 			  <li>Milk</li>
-		  	  <li> Biscuit5000 </li>
+		  	  <li> Cookies </li>
 			</ul>  
 
 </body>
