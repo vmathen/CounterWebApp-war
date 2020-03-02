@@ -115,9 +115,3 @@
 
 	</build>
 </project>
-<properties>
-                <sonar.projectKey>vmathen_CounterWebApp-war</sonar.projectKey>
-                <sonar.organization>vmathen</sonar.organization>
-                <sonar.host.url>https://sonarcloud.io</sonar.host.url>
-                <sonar.login>0e473cb38cc0bb2e7a5038900cbb15b0d0cc47eb</sonar.login>
-        </properties>
