@@ -13,6 +13,7 @@
 			  <li>Tea</li>
 			  <li>Milk</li>
 		  	  <li> Cookies </li>
+			  <li> Cakes </li>	
 			</ul>  
 
 </body>
